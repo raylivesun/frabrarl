@@ -13,5 +13,4 @@ Encoding: UTF-8
 RnwWeave: Sweave
 LaTeX: pdfLaTeX
 
-BuildType: Website
-WebsitePath: ~/app/dlang-komodo/frabrarl
+BuildType: Makefile
